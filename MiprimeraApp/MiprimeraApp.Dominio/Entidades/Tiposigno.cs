@@ -6,6 +6,6 @@ namespace MiprimeraApp.Dominio.Entidades
         FrecuenciaCardiaca,
         FrecuenciaRespitaria,
         SaturacionOxigeno,
-        TemperaturaCorporsl,
+        TemperaturaCorporal,
     }
 }
