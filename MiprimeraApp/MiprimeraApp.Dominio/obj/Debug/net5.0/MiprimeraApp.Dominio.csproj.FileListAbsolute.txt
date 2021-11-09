@@ -1,0 +1,12 @@
+C:\Miprimerproyecto\MiprimeraApp\MiprimeraApp.Dominio\bin\Debug\net5.0\MiprimeraApp.Dominio.deps.json
+C:\Miprimerproyecto\MiprimeraApp\MiprimeraApp.Dominio\bin\Debug\net5.0\MiprimeraApp.Dominio.dll
+C:\Miprimerproyecto\MiprimeraApp\MiprimeraApp.Dominio\bin\Debug\net5.0\ref\MiprimeraApp.Dominio.dll
+C:\Miprimerproyecto\MiprimeraApp\MiprimeraApp.Dominio\bin\Debug\net5.0\MiprimeraApp.Dominio.pdb
+C:\Miprimerproyecto\MiprimeraApp\MiprimeraApp.Dominio\obj\Debug\net5.0\MiprimeraApp.Dominio.csproj.AssemblyReference.cache
+C:\Miprimerproyecto\MiprimeraApp\MiprimeraApp.Dominio\obj\Debug\net5.0\MiprimeraApp.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Miprimerproyecto\MiprimeraApp\MiprimeraApp.Dominio\obj\Debug\net5.0\MiprimeraApp.Dominio.AssemblyInfoInputs.cache
+C:\Miprimerproyecto\MiprimeraApp\MiprimeraApp.Dominio\obj\Debug\net5.0\MiprimeraApp.Dominio.AssemblyInfo.cs
+C:\Miprimerproyecto\MiprimeraApp\MiprimeraApp.Dominio\obj\Debug\net5.0\MiprimeraApp.Dominio.csproj.CoreCompileInputs.cache
+C:\Miprimerproyecto\MiprimeraApp\MiprimeraApp.Dominio\obj\Debug\net5.0\MiprimeraApp.Dominio.dll
+C:\Miprimerproyecto\MiprimeraApp\MiprimeraApp.Dominio\obj\Debug\net5.0\ref\MiprimeraApp.Dominio.dll
+C:\Miprimerproyecto\MiprimeraApp\MiprimeraApp.Dominio\obj\Debug\net5.0\MiprimeraApp.Dominio.pdb

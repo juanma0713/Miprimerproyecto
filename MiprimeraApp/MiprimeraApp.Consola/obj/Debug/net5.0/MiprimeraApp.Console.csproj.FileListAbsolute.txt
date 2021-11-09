@@ -1,0 +1,10 @@
+C:\Miprimerproyecto\MiprimeraApp\MiprimeraApp.Console\obj\Debug\net5.0\MiprimeraApp.Console.csproj.AssemblyReference.cache
+C:\Miprimerproyecto\MiprimeraApp\MiprimeraApp.Console\obj\Debug\net5.0\MiprimeraApp.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Miprimerproyecto\MiprimeraApp\MiprimeraApp.Console\obj\Debug\net5.0\MiprimeraApp.Console.AssemblyInfoInputs.cache
+C:\Miprimerproyecto\MiprimeraApp\MiprimeraApp.Console\obj\Debug\net5.0\MiprimeraApp.Console.AssemblyInfo.cs
+C:\Miprimerproyecto\MiprimeraApp\MiprimeraApp.Console\obj\Debug\net5.0\MiprimeraApp.Console.csproj.CoreCompileInputs.cache
+C:\Miprimerproyecto\MiprimeraApp\MiprimeraApp.Consola\obj\Debug\net5.0\MiprimeraApp.Console.csproj.AssemblyReference.cache
+C:\Miprimerproyecto\MiprimeraApp\MiprimeraApp.Consola\obj\Debug\net5.0\MiprimeraApp.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Miprimerproyecto\MiprimeraApp\MiprimeraApp.Consola\obj\Debug\net5.0\MiprimeraApp.Console.AssemblyInfoInputs.cache
+C:\Miprimerproyecto\MiprimeraApp\MiprimeraApp.Consola\obj\Debug\net5.0\MiprimeraApp.Console.AssemblyInfo.cs
+C:\Miprimerproyecto\MiprimeraApp\MiprimeraApp.Consola\obj\Debug\net5.0\MiprimeraApp.Console.csproj.CoreCompileInputs.cache
