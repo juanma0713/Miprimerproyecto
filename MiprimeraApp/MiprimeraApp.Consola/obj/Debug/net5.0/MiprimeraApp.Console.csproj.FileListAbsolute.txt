@@ -8,3 +8,8 @@ C:\Miprimerproyecto\MiprimeraApp\MiprimeraApp.Consola\obj\Debug\net5.0\Miprimera
 C:\Miprimerproyecto\MiprimeraApp\MiprimeraApp.Consola\obj\Debug\net5.0\MiprimeraApp.Console.AssemblyInfoInputs.cache
 C:\Miprimerproyecto\MiprimeraApp\MiprimeraApp.Consola\obj\Debug\net5.0\MiprimeraApp.Console.AssemblyInfo.cs
 C:\Miprimerproyecto\MiprimeraApp\MiprimeraApp.Consola\obj\Debug\net5.0\MiprimeraApp.Console.csproj.CoreCompileInputs.cache
+C:\Users\SENA\juanproj\Miprimerproyecto\MiprimeraApp\MiprimeraApp.Consola\obj\Debug\net5.0\MiprimeraApp.Console.csprojAssemblyReference.cache
+C:\Users\SENA\juanproj\Miprimerproyecto\MiprimeraApp\MiprimeraApp.Consola\obj\Debug\net5.0\MiprimeraApp.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENA\juanproj\Miprimerproyecto\MiprimeraApp\MiprimeraApp.Consola\obj\Debug\net5.0\MiprimeraApp.Console.AssemblyInfoInputs.cache
+C:\Users\SENA\juanproj\Miprimerproyecto\MiprimeraApp\MiprimeraApp.Consola\obj\Debug\net5.0\MiprimeraApp.Console.AssemblyInfo.cs
+C:\Users\SENA\juanproj\Miprimerproyecto\MiprimeraApp\MiprimeraApp.Consola\obj\Debug\net5.0\MiprimeraApp.Console.csproj.CoreCompileInputs.cache

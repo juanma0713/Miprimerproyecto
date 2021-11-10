@@ -2,7 +2,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\MiprimeraApp.Dominio\MiprimeraApp.Dominio.csproj" />
-    <ProjectReference Include="..\MiprimeraApp.Pesistencia\MiprimeraApp.Pesistencia.csproj" />
+    <ProjectReference Include="..\MiprimeraApp.Persistencia\MiprimeraApp.Persistencia.csproj" />
   </ItemGroup>
 
   <PropertyGroup>

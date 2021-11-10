@@ -6,6 +6,6 @@ namespace MiprimeraApp.Dominio
         Femenino,
         Bisexual,
         Intersexual,
-        Pansexual,
+        Pansexual
     }
 }

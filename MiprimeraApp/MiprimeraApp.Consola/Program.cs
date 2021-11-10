@@ -1,4 +1,7 @@
 ﻿using System;
+using System.Collections.Generic;
+using MiprimeraApp.Dominio;
+using MiprimeraApp.Persistencia;
 
 namespace MiprimeraApp.Console
 {
@@ -6,7 +9,6 @@ namespace MiprimeraApp.Console
     {
         static void Main(string[] args)
         {
-           
             Console.WriteLine("Hello World!didi");
         }
     }
